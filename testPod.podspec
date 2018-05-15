@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
   # 项目的作者
   s.author             = { "softwaredavid" => "softwaredavid@sina.com" }
   # 项目支持的平台
-  s.platform     = :ios, "5.0"
+  s.platform     = :ios, "8.0"
   # 项目的代码地址
   s.source       = { :git => "https://github.com/softwaredavid/testPod.git", :tag => "#{s.version}" }
 
